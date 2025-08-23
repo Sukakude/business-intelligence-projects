@@ -1,1 +1,1 @@
-This repo is for business intelligence projects.
+This repo is for all SQL-related business intelligence projects.
